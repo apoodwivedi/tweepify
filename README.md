@@ -1,26 +1,27 @@
 # tweepify
 
 
-**What is sentiment analysis?
-**Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as  **opinion mining** , deriving the opinion or attitude of a speaker.
+**What is sentiment analysis?**
+
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as  **opinion mining** , deriving the opinion or attitude of a speaker
 
 **Why sentiment analysis?**
 
-* **Business: **In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some
+* **Business:** In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some
   products.
-* **Politics: **In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
-* **Public Actions: **Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
+* **Politics:** In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
+* **Public Actions:** Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
 
 **Installation:**
 
 
-* **Tweepy: **[tweepy ](http://docs.tweepy.org/en/v3.5.0/)is the python client for the official [Twitter API](https://dev.twitter.com/rest/public).
+* **Tweepy:**  [tweepy ](http://docs.tweepy.org/en/v3.5.0/)is the python client for the official [Twitter API](https://dev.twitter.com/rest/public).
   Install it using following pip command:
 
   ```
   pip install tweepy
   ```
-* **TextBlob: **[textblob](http://textblob.readthedocs.io/en/dev/) is the python library for processing textual data.
+* **TextBlob:** [textblob](http://textblob.readthedocs.io/en/dev/) is the python library for processing textual data.
   Install it using following pip command:
 
   ```
@@ -35,8 +36,8 @@
 
   (Corpora is nothing but **a large and structured set of texts.)**
 
-**Authentication:
-**In order to fetch tweets through Twitter API, one needs to register an App through their twitter account. Follow these steps for the same:
+**Authentication:**
+In order to fetch tweets through Twitter API, one needs to register an App through their twitter account. Follow these steps for the same:
 
 * Open this[ link](https://apps.twitter.com/) and click the button: ‘Create New App’
 * Fill the application details. You can leave the callback url field empty.
